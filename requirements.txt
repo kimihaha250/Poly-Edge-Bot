@@ -1,0 +1,6 @@
+python-dotenv
+requests
+pydantic
+tenacity
+curl-cffi
+py-clob-client
